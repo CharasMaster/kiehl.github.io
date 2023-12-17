@@ -1,0 +1,143 @@
+.brand-name{
+    font-family: 'Caveat', cursive;
+}
+.brand-name-2{
+    font-family: 'Caveat', cursive;
+    color: white;
+    text-align: center;
+    margin-top: 8vh;
+}
+.page1{
+    background-image: url('https://82e.com/cdn/shop/files/Minis_home_page_banner_Desktop.jpg?v=1700255384');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    padding-bottom: 20vh;
+}
+.nav-link{
+    font-family: 'ABeeZee', sans-serif;
+}
+.nav-link:hover{
+    text-decoration: underline;
+    font-family: 'ABeeZee', sans-serif;
+}
+.btn-secondary{
+    background-color: transparent;
+    border: 0px solid black;
+}
+.btn-secondary:hover{
+    background-color: transparent;
+}
+.dropdown-text:hover{
+    text-decoration: underline;
+}
+.navbar-nav{
+    gap: 20px;
+}
+.container-custom{
+    margin-top: 15vh;
+}
+.container-custom1{
+    margin-left: 3vw;
+    width: 28vw;
+    font-family: 'EB Garamond', serif;
+    color: white;
+}
+.container-custom2{
+    margin-top: 2vw;
+    margin-left: 3vw;
+    max-width: fit-content;
+    font-family: 'ABeeZee', sans-serif;
+    font-weight: 700;
+    color: white;
+    
+}
+.shopnow-underline{
+    border: 0.5px solid white;
+    width: 5.5vw;
+    margin-top: 0.5vw;
+}
+.container-custom2:hover{
+    .shopnow-underline{
+    width: 0vw;
+    transition: 1s;
+    }
+}
+.page2{
+    margin-top: 0vh;
+    background-color: beige;
+}
+.page3{
+        padding-top: 8vh;
+        background-color: beige;
+        padding-bottom: 8vh;
+}
+.page4{
+        padding-top: 20vh;
+        height: 80vh;
+        background-color: beige;
+        background-image: url(https://82e.com/cdn/shop/files/Homepage_born_in_India_desk_6ff6ae72-772a-4ed1-be01-f2070c489dc3.jpg?v=1683281444&width=1500);
+}
+.text-2{
+    margin-top: 20vh;
+    font-family: 'EB Garamond', serif;
+    margin-left: 3vw;
+    font-size: xx-large;
+}
+.text-3{
+    margin-top: 8vh;
+    font-family: 'EB Garamond', serif;
+    margin-left: 3vw;
+    font-size: large;
+}
+.carousel{
+    width: 40vw;
+}
+.buy-now-head{
+    font-family: 'EB Garamond', serif;
+}
+.shopnow-underline2{
+   margin-left: 43vw;
+    border: 0.5px solid black;
+    width: 12vw;
+    margin-top: 0.5vw;
+}
+.buy-now-head:hover{
+    .shopnow-underline2{
+        width: 0vw;
+        transition: 1s;
+        }
+}
+.buy-list{
+    margin-top: 10vw;
+}
+.img-buy{
+    width: 25vw;
+}
+.btn2{
+    background-color:moccasin;
+    border-radius: 5px;
+}
+.blockquote{
+    color: white;
+}
+.contact-us{
+    background-color: black;
+}
+.para{
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: large;
+    text-align: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+.logos{
+    text-align: center;
+    margin-left: 9vw;
+    width: fit-content;
+}
+.logoicon{
+    width: 3vw;
+    margin-top: 2vw;
+}
